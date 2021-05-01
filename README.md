@@ -2,11 +2,16 @@
 
 ![AA](https://user-images.githubusercontent.com/14044648/116704945-47ebf280-a9cc-11eb-84f4-d4695cf03ac3.png)
 
+# Téléchargement / Download
+
+Vous pouvez trouver la dernière version ici https://github.com/Dites33/AA/releases
+You can download latest version here https://github.com/Dites33/AA/releases
+
 # Installation
 
 ## French
 
-Veuillez suivre TOUTES les étapes de ce fichier README si vous rencontrez des problèmes avec l'installation avant de demander de l'aide. Ouvrez le zip que vous avez téléchargé à partir de l'un des liens ci-dessus et **faites glisser le dossier AA-Stable à l'intérieur du zip dans votre dossier Community**.
+Veuillez suivre TOUTES les étapes de ce fichier README si vous rencontrez des problèmes avec l'installation avant de demander de l'aide. Ouvrez le zip que vous avez téléchargé à partir de l'un des liens ci-dessus et **faites glisser le dossier "AA-Stable" à l'intérieur du zip dans votre dossier Community**.
 
 Voir ci-dessous pour l'emplacement de votre dossier Community:
 
@@ -29,7 +34,7 @@ Vous pouvez trouver votre dossier de Community en accédant aux options généra
 ## ENGLISH
 
 Please follow ALL steps in this README if you encounter any issues with installation before seeking support.
-Open the zip that you downloaded from one of the links above, and drag the "AA-Stable" inside the zip into your Community folder.
+Open the zip that you downloaded from one of the links above, and **drag the "AA-Stable" inside the zip into your Community folder**.
 
 See below for the location of your Community folder:
 
