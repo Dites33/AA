@@ -33,7 +33,7 @@ Open the zip that you downloaded from one of the links above, and **drag the "AA
 
 See below for the location of your Community folder:
 
-For the Microsoft Store edition AND/OR Gamepass edition:
+For the Microsoft Store edition AND/OR Gamepass edition AND/OR boxed edition:
 
 Copy the "AA-Stable" folder into your community package folder. It is located in: %localappdata%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 
