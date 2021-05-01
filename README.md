@@ -78,4 +78,9 @@ Please ensure you add screenshots or documentation references for bugs/changes s
 
 ![unknown](https://user-images.githubusercontent.com/14044648/116791775-cf189380-aabc-11eb-8eab-f3d968c12127.png)
 
+![logo-bad-bisounours-mixte](https://user-images.githubusercontent.com/14044648/116794288-296d2080-aacc-11eb-87be-ca9ca981bbae.png)
+
+![unknown4](https://user-images.githubusercontent.com/14044648/116794303-53bede00-aacc-11eb-87dc-27d8b8706383.png)
+
+
 
