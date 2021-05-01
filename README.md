@@ -1,10 +1,5 @@
 # Azghaaarie Airlines Depository
 
-![AA](https://user-images.githubusercontent.com/14044648/116704945-47ebf280-a9cc-11eb-84f4-d4695cf03ac3.png)
-
-![image](https://user-images.githubusercontent.com/14044648/116785038-ba75d480-aa97-11eb-96bf-97003c711f57.png)
-
-
 # Téléchargement / Download
 
 Vous pouvez trouver la dernière version ici https://github.com/Dites33/AA/releases
@@ -66,3 +61,11 @@ When submitting an issue, there's a few guidelines we'd ask you to respect to ma
 Search the issue tracker before you submit your issue - it may already be present.
 When opening an issue, a template is provided for you. Please provide as much information as requested to ensure others are able to act upon the requests or bug report.
 Please ensure you add screenshots or documentation references for bugs/changes so we can quickly ascertain if the request is suitable.
+
+# Captures d'écran / Screenshots
+
+![AA](https://user-images.githubusercontent.com/14044648/116704945-47ebf280-a9cc-11eb-84f4-d4695cf03ac3.png)
+
+![image](https://user-images.githubusercontent.com/14044648/116785038-ba75d480-aa97-11eb-96bf-97003c711f57.png)
+
+![image](https://user-images.githubusercontent.com/14044648/116785136-3a9c3a00-aa98-11eb-9c0d-1b5294f7c056.png)
