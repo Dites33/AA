@@ -2,6 +2,9 @@
 
 ![AA](https://user-images.githubusercontent.com/14044648/116704945-47ebf280-a9cc-11eb-84f4-d4695cf03ac3.png)
 
+![image](https://user-images.githubusercontent.com/14044648/116785038-ba75d480-aa97-11eb-96bf-97003c711f57.png)
+
+
 # Téléchargement / Download
 
 Vous pouvez trouver la dernière version ici https://github.com/Dites33/AA/releases
