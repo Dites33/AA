@@ -39,7 +39,7 @@ See below for the location of your Community folder:
 
 For the Microsoft Store edition AND/OR Gamepass edition:
 
-Copy the "Livrees Azgharie Airlines" folder into your community package folder. It is located in: %localappdata%\PackagesMicrosoft.FlightSimulator_<xxxxxxxxx>\LocalCache\Packages\Community.
+Copy the "Livrees Azgharie Airlines" folder into your community package folder. It is located in: %localappdata%\Packages\Microsoft.FlightSimulator_<xxxxxxxxx>\LocalCache\Packages\Community.
 
 For the Steam edition:
 
