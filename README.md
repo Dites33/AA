@@ -64,8 +64,18 @@ Please ensure you add screenshots or documentation references for bugs/changes s
 
 # Captures d'écran / Screenshots
 
+![Capture3](https://user-images.githubusercontent.com/14044648/116791779-d344b100-aabc-11eb-8daf-2f73609cdcb5.PNG)
+
 ![AA](https://user-images.githubusercontent.com/14044648/116704945-47ebf280-a9cc-11eb-84f4-d4695cf03ac3.png)
 
 ![image](https://user-images.githubusercontent.com/14044648/116785038-ba75d480-aa97-11eb-96bf-97003c711f57.png)
 
 ![image](https://user-images.githubusercontent.com/14044648/116785136-3a9c3a00-aa98-11eb-9c0d-1b5294f7c056.png)
+
+![unknown3](https://user-images.githubusercontent.com/14044648/116791754-bad49680-aabc-11eb-9ae5-de057477b2db.png)
+
+![unknown2](https://user-images.githubusercontent.com/14044648/116791768-caec7600-aabc-11eb-813a-4e31e5bf2bbe.png)
+
+![unknown](https://user-images.githubusercontent.com/14044648/116791775-cf189380-aabc-11eb-8eab-f3d968c12127.png)
+
+
