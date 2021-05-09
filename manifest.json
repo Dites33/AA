@@ -1,14 +1,5 @@
 {
-  "dependencies": [
-    {
-      "package_version": "0.1.58",
-      "name": "asobo-aircraft-a320-neo"
-    },
-    {
-      "name": "flybywire-aircraft-a320-neo",
-      "package_version": "0.6.0"
-    }
-  ],
+  "dependencies": [],
   "content_type": "AIRCRAFT",
   "title": "Azgharie Airlines Liveries",
   "manufacturer": "Airbus",
