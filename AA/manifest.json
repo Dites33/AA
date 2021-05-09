@@ -1,0 +1,16 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Azgharie Airlines Liveries",
+  "manufacturer": "Airbus",
+  "creator": "Dites33",
+  "package_version": "1.1",
+  "minimum_game_version": "1.9.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}
