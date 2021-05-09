@@ -14,17 +14,13 @@ Veuillez suivre TOUTES les étapes de ce fichier README si vous rencontrez des p
 
 Voir ci-dessous pour l'emplacement de votre dossier Community:
 
-Pour l'édition Microsoft Store ET / OU l'édition Gamepass:
+Pour l'édition Microsoft Store ET / OU l'édition Gamepass ET / OU l'édition Boite :
 
-Copiez le dossier "Livres Azgharie Airlines" dans votre dossier de package communautaire. Il se trouve dans: C:\Users\[VOTRE NOM D'UTILISATEUR WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_<xxxxxxxxxxx>\LocalCache\Packages\Community
+Copiez le dossier "AA-Stable" dans votre dossier de package communautaire. Il se trouve dans: %localappdata%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 
 Pour l'édition Steam:
 
-Copiez le dossier "Livres Azgharie Airlines" dans votre dossier de package communautaire. Il se trouve dans: C:\Users\[VOTRE NOM D'UTILISATEUR WINDOWS]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community. 
-
-Pour l'édition Boite (DVD)
-
-Copiez le dossier "Livres Azgharie Airlines" dans votre dossier de package communautaire. Il se trouve dans: C:\Users\[VOTRE NOM D'UTILISATEUR WINDOWS]\AppData\Local\MSFSPackages\Community. 
+Copiez le dossier "AA-Stable" dans votre dossier de package communautaire. Il se trouve dans: %appdata%\Microsoft Flight Simulator\Packages\Community
 
 Si les méthodes ci-dessus ne fonctionnent pas:
 
@@ -37,17 +33,14 @@ Open the zip that you downloaded from one of the links above, and **drag the "AA
 
 See below for the location of your Community folder:
 
-For the Microsoft Store edition AND/OR Gamepass edition:
+For the Microsoft Store edition AND/OR Gamepass edition AND/OR boxed edition:
 
-Copy the "Livrees Azgharie Airlines" folder into your community package folder. It is located in: C:\Users\[YOUR USERNAME]\AppData\Local\Packages\Microsoft.FlightSimulator_<xxxxxxxxx>\LocalCache\Packages\Community.
+Copy the "AA-Stable" folder into your community package folder. It is located in: %localappdata%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 
 For the Steam edition:
 
-Copy the "Livrees Azgharie Airlines" folder into your community package folder. It is located in: C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community.
+Copy the "AA-Stable" folder into your community package folder. It is located in: %appdata%\Microsoft Flight Simulator\Packages\Community
 
-For the Boxed edition:
-
-Copy the "Livrees Azgharie Airlines" folder into your community package folder. It is located in: C:\Users\[YOUR USERNAME]\AppData\Local\MSFSPackages\Community.
 If the above methods do not work:
 
 You can find your community folder by going into FS2020 general options and enabling developer mode. You will see a menu appear on top. Go to tools and virtual file system. Click on watch bases and your community folder will be listed in one of the folders.
@@ -77,5 +70,10 @@ Please ensure you add screenshots or documentation references for bugs/changes s
 ![unknown2](https://user-images.githubusercontent.com/14044648/116791768-caec7600-aabc-11eb-813a-4e31e5bf2bbe.png)
 
 ![unknown](https://user-images.githubusercontent.com/14044648/116791775-cf189380-aabc-11eb-8eab-f3d968c12127.png)
+
+![logo-bad-bisounours-mixte](https://user-images.githubusercontent.com/14044648/116794288-296d2080-aacc-11eb-87be-ca9ca981bbae.png)
+
+![unknown4](https://user-images.githubusercontent.com/14044648/116794303-53bede00-aacc-11eb-87dc-27d8b8706383.png)
+
 
 
