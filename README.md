@@ -10,7 +10,7 @@ You can download latest version here https://github.com/Dites33/AA/releases
 
 ## French
 
-Veuillez suivre TOUTES les étapes de ce fichier README si vous rencontrez des problèmes avec l'installation avant de demander de l'aide. Ouvrez le zip que vous avez téléchargé à partir de l'un des liens ci-dessus et **faites glisser le dossier "AA-Stable" à l'intérieur du zip dans votre dossier Community**.
+Veuillez suivre TOUTES les étapes de ce fichier README si vous rencontrez des problèmes avec l'installation avant de demander de l'aide. Ouvrez le zip que vous avez téléchargé à partir de l'un des liens ci-dessus et **faites glisser le dossier "AA" à l'intérieur du zip dans votre dossier Community**.
 
 Voir ci-dessous pour l'emplacement de votre dossier Community:
 
@@ -20,26 +20,26 @@ Copiez le dossier "AA-Stable" dans votre dossier de package communautaire. Il se
 
 Pour l'édition Steam:
 
-Copiez le dossier "AA-Stable" dans votre dossier de package communautaire. Il se trouve dans: %appdata%\Microsoft Flight Simulator\Packages\Community
+Copiez le dossier "AA" dans votre dossier de package communautaire. Il se trouve dans: %appdata%\Microsoft Flight Simulator\Packages\Community
 
 Si les méthodes ci-dessus ne fonctionnent pas:
 
-Vous pouvez trouver votre dossier de Community en accédant aux options générales de FS2020 et en activant le mode développeur. Vous verrez un menu apparaître en haut. Accédez aux outils et au système de fichiers virtuel. Cliquez sur les bases de surveillance et votre dossier de communauté sera répertorié dans l'un des dossiers. Veuillez vous assurer que vous copiez l'intégralité du dossier "AA-Stable" dans votre dossier de package de communauté.
+Vous pouvez trouver votre dossier de Community en accédant aux options générales de FS2020 et en activant le mode développeur. Vous verrez un menu apparaître en haut. Accédez aux outils et au système de fichiers virtuel. Cliquez sur les bases de surveillance et votre dossier de communauté sera répertorié dans l'un des dossiers. Veuillez vous assurer que vous copiez l'intégralité du dossier "AA" dans votre dossier de package de communauté.
 
 ## ENGLISH
 
 Please follow ALL steps in this README if you encounter any issues with installation before seeking support.
-Open the zip that you downloaded from one of the links above, and **drag the "AA-Stable" inside the zip into your Community folder**.
+Open the zip that you downloaded from one of the links above, and **drag the "AA" inside the zip into your Community folder**.
 
 See below for the location of your Community folder:
 
 For the Microsoft Store edition AND/OR Gamepass edition AND/OR boxed edition:
 
-Copy the "AA-Stable" folder into your community package folder. It is located in: %localappdata%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
+Copy the "AA" folder into your community package folder. It is located in: %localappdata%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 
 For the Steam edition:
 
-Copy the "AA-Stable" folder into your community package folder. It is located in: %appdata%\Microsoft Flight Simulator\Packages\Community
+Copy the "AA" folder into your community package folder. It is located in: %appdata%\Microsoft Flight Simulator\Packages\Community
 
 If the above methods do not work:
 
@@ -57,19 +57,33 @@ Please ensure you add screenshots or documentation references for bugs/changes s
 
 # Captures d'écran / Screenshots
 
+![thumbnail3](https://user-images.githubusercontent.com/14044648/117664635-4bd4fd00-b1a2-11eb-9f69-99a83dc79f2f.jpg)
+
+![unknown6](https://user-images.githubusercontent.com/14044648/117662298-b173ba00-b19f-11eb-94f2-64af3452160f.png)
+
+![unknown5](https://user-images.githubusercontent.com/14044648/117662315-b59fd780-b19f-11eb-9b30-b5df699ef47f.png)
+
+![unknown](https://user-images.githubusercontent.com/14044648/117662339-bafd2200-b19f-11eb-86b0-794e5ba5360a.png)
+
+![unknown2](https://user-images.githubusercontent.com/14044648/117662344-bc2e4f00-b19f-11eb-84a0-9ef381fa9b66.png)
+
+![unknown3](https://user-images.githubusercontent.com/14044648/117662353-bd5f7c00-b19f-11eb-8de5-2689d3ad69e2.png)
+
+![unknown4](https://user-images.githubusercontent.com/14044648/117662357-bfc1d600-b19f-11eb-9f6f-27595fd481e0.png)
+
 ![Capture3](https://user-images.githubusercontent.com/14044648/116791779-d344b100-aabc-11eb-8daf-2f73609cdcb5.PNG)
 
 ![image](https://user-images.githubusercontent.com/14044648/116785038-ba75d480-aa97-11eb-96bf-97003c711f57.png)
 
 ![image](https://user-images.githubusercontent.com/14044648/116785136-3a9c3a00-aa98-11eb-9c0d-1b5294f7c056.png)
 
+![Capture_decran_57](https://user-images.githubusercontent.com/14044648/117664651-5099b100-b1a2-11eb-845e-9ff690c6a44e.png)
+
 ![unknown3](https://user-images.githubusercontent.com/14044648/116791754-bad49680-aabc-11eb-9ae5-de057477b2db.png)
 
 ![unknown2](https://user-images.githubusercontent.com/14044648/116791768-caec7600-aabc-11eb-813a-4e31e5bf2bbe.png)
 
 ![unknown](https://user-images.githubusercontent.com/14044648/116791775-cf189380-aabc-11eb-8eab-f3d968c12127.png)
-
-![logo-bad-bisounours-mixte](https://user-images.githubusercontent.com/14044648/116794288-296d2080-aacc-11eb-87be-ca9ca981bbae.png)
 
 ![unknown4](https://user-images.githubusercontent.com/14044648/116794303-53bede00-aacc-11eb-87dc-27d8b8706383.png)
 
