@@ -57,7 +57,7 @@ Please ensure you add screenshots or documentation references for bugs/changes s
 
 # Captures d'écran / Screenshots
 
-![thumbnail3](https://user-images.githubusercontent.com/14044648/117661544-c865dc80-b19e-11eb-84cf-101552f5fb64.jpg)
+![thumbnail3](https://user-images.githubusercontent.com/14044648/117664635-4bd4fd00-b1a2-11eb-9f69-99a83dc79f2f.jpg)
 
 ![unknown6](https://user-images.githubusercontent.com/14044648/117662298-b173ba00-b19f-11eb-94f2-64af3452160f.png)
 
@@ -76,6 +76,8 @@ Please ensure you add screenshots or documentation references for bugs/changes s
 ![image](https://user-images.githubusercontent.com/14044648/116785038-ba75d480-aa97-11eb-96bf-97003c711f57.png)
 
 ![image](https://user-images.githubusercontent.com/14044648/116785136-3a9c3a00-aa98-11eb-9c0d-1b5294f7c056.png)
+
+![Capture_decran_57](https://user-images.githubusercontent.com/14044648/117664651-5099b100-b1a2-11eb-845e-9ff690c6a44e.png)
 
 ![unknown3](https://user-images.githubusercontent.com/14044648/116791754-bad49680-aabc-11eb-9ae5-de057477b2db.png)
 
