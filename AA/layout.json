@@ -3966,6 +3966,286 @@
       "date": 132643478741510048
     },
     {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/aircraft.cfg",
+      "size": 722,
+      "date": 132663189335295685
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/MODEL.MAIN/model.cfg",
+      "size": 284,
+      "date": 132643478701243665
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132620083760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132491906240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132663392766708902
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421486980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+      "size": 349680,
+      "date": 132577872880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423811020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132670578299646639
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421486980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 349680,
+      "date": 132577872980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423811020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 144,
+      "date": 132468359020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132459657520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 144,
+      "date": 132468359020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132459657520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132668688825857021
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421487000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 349680,
+      "date": 132577873080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423811040000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478717755462
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478717760846
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478717825025
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478717834932
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
+      "size": 1398276,
+      "date": 132670572011197970
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132643478732429445
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132643478732449477
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478732459469
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSTEXT_ALBD.TIF.DDS",
+      "size": 5592580,
+      "date": 132643542113646842
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSTEXT_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132643478718375436
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS",
+      "size": 22369796,
+      "date": 132643542114287425
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132643478719016001
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478719016001
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478720923292
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478720933299
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478721249588
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478721259575
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132670573556424273
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478722385985
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478722486083
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478722486083
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643542118429841
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478726253586
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478727335901
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478727345902
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478727676210
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478727686212
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132670567449790118
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478741209793
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132670568180233989
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132643478741369934
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478741490040
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478741500051
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/texture.CFG",
+      "size": 209,
+      "date": 132619803960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/thumbnail.jpg",
+      "size": 60884,
+      "date": 132670512355657660
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/thumbnail_small.jpg",
+      "size": 15129,
+      "date": 132670512355878010
+    },
+    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/aircraft.cfg",
       "size": 723,
       "date": 132643542124088398
@@ -5121,6 +5401,296 @@
       "date": 132643478767505762
     },
     {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/aircraft.cfg",
+      "size": 721,
+      "date": 132662789918831050
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/MODEL.MAIN/model.cfg",
+      "size": 284,
+      "date": 132643478701243665
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132662799597275185
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421486980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478702084420
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478702092128
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132662813639312741
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421486980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.dds",
+      "size": 22369796,
+      "date": 132643542108417138
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478703020494
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 144,
+      "date": 132468359020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132459657520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 144,
+      "date": 132468359020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132459657520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132662801270206512
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421487000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478704411760
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478704171544
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478717755462
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478717760846
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478717825025
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478717834932
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
+      "size": 1398276,
+      "date": 132651166955842178
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132643478732429445
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132643478732449477
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478732459469
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSTEXT_ALBD.TIF.DDS",
+      "size": 5592580,
+      "date": 132643542113646842
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSTEXT_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132643478718375436
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS",
+      "size": 22369796,
+      "date": 132672995607349421
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132643478746739354
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478746739354
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478720923292
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478720933299
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478721249588
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478721259575
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132672997280887159
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478722385985
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478722486083
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478722486083
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643542118429841
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478726253586
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478727335901
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478727345902
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478727676210
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478727686212
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478728313741
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478728323758
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478728383810
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478728393812
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132670454495104816
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132643478741209793
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132670486637016427
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132643478741369934
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132643478741490040
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132643478741500051
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/texture.CFG",
+      "size": 209,
+      "date": 132619803960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/thumbnail.jpg",
+      "size": 60883,
+      "date": 132670511687134600
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/thumbnail_small.jpg",
+      "size": 14725,
+      "date": 132670511687364810
+    },
+    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/aircraft.cfg",
       "size": 721,
       "date": 132643542127987418
@@ -5692,13 +6262,13 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Aircraft_Caddy/sim.cfg",
-      "size": 1194,
-      "date": 132421557700069199
+      "size": 1198,
+      "date": 132668620603307149
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Aircraft_Caddy/TEXTURE/AIRCRAFTCADDY_2_ALBEDO.PNG.DDS",
-      "size": 4194452,
-      "date": 132517344693590548
+      "size": 5592580,
+      "date": 132668626203151704
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Aircraft_Caddy/TEXTURE/AIRCRAFTCADDY_2_ALBEDO.PNG.DDS.json",
@@ -5706,24 +6276,9 @@
       "date": 132421557638702278
     },
     {
-      "path": "SimObjects/GroundVehicles/ASO_BaggageTruck01/sim.cfg",
-      "size": 1061,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_BaggageTruck01/TEXTURE/BAGGAGETRUCK03_ALBEDO.PNG.DDS",
-      "size": 5592580,
-      "date": 132493361480000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_BaggageTruck01/TEXTURE/BAGGAGETRUCK03_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
       "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart01/sim.cfg",
-      "size": 1049,
-      "date": 132652052077246425
+      "size": 1053,
+      "date": 132668620746495062
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart01/TEXTURE/BAGGAGE_CART01_ALBEDO.PNG.DDS",
@@ -5766,139 +6321,9 @@
       "date": 132423371640000000
     },
     {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/sim.cfg",
-      "size": 1050,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/BAGGAGE_CART02_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132498638360000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/BAGGAGE_CART02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/CONTAINER_01_ALBEDO.PNG.DDS",
-      "size": 699192,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/CONTAINER_01_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/LOGO_ASSETS_AIRPORTS_ALBEDO.PNG.DDS",
-      "size": 174904,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/LOGO_ASSETS_AIRPORTS_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/LUGGAGES_02_ALBEDO.PNG.DDS",
-      "size": 349700,
-      "date": 132498627420000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/LUGGAGES_02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/LUGGAGES_ALBEDO.PNG.DDS",
-      "size": 349700,
-      "date": 132498626800000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart02/TEXTURE/LUGGAGES_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/sim.cfg",
-      "size": 1380,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART01_ALBEDO.PNG.DDS",
-      "size": 2184788,
-      "date": 132498512760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART01_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART01_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132498512440000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART02_ALBEDO.PNG.DDS",
-      "size": 699192,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART03_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132498471020000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_PART03_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_TAPIS_ALBEDO.PNG.DDS",
-      "size": 174904,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/AIRCRAFT_BELT_LOADER_TAPIS_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/LUGGAGES_02_ALBEDO.PNG.DDS",
-      "size": 349700,
-      "date": 132498627420000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/LUGGAGES_02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/LUGGAGES_ALBEDO.PNG.DDS",
-      "size": 349700,
-      "date": 132498626800000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Baggage_Loader_01/TEXTURE/LUGGAGES_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371640000000
-    },
-    {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/sim.cfg",
-      "size": 1795,
-      "date": 132448090360000000
+      "size": 1644,
+      "date": 132668722794189514
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE/BOARDING_STAIRS_BASE_ALBEDO.PNG.dds",
@@ -5913,7 +6338,7 @@
     {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE/BOARDING_STAIRS_CABINE_ALBEDO.PNG.dds",
       "size": 1398276,
-      "date": 132497527300000000
+      "date": 132668629130300760
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE/BOARDING_STAIRS_CABINE_ALBEDO.PNG.DDS.json",
@@ -5923,7 +6348,7 @@
     {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE/BOARDING_STAIRS_STAIRS_ALBEDO.PNG.dds",
       "size": 1398276,
-      "date": 132497678260000000
+      "date": 132668627626841410
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE/BOARDING_STAIRS_STAIRS_ALBEDO.PNG.DDS.json",
@@ -5931,119 +6356,9 @@
       "date": 132423371660000000
     },
     {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.RED/BOARDING_STAIRS_BASE_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132497662500000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.RED/BOARDING_STAIRS_BASE_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.RED/BOARDING_STAIRS_CABINE_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132497630080000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.RED/BOARDING_STAIRS_CABINE_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.RED/BOARDING_STAIRS_STAIRS_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132497630280000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.RED/BOARDING_STAIRS_STAIRS_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.YELLOW/BOARDING_STAIRS_BASE_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132497661580000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.YELLOW/BOARDING_STAIRS_BASE_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.YELLOW/BOARDING_STAIRS_CABINE_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132497595640000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.YELLOW/BOARDING_STAIRS_CABINE_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.YELLOW/BOARDING_STAIRS_STAIRS_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132497595920000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE.YELLOW/BOARDING_STAIRS_STAIRS_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarFacillity01/sim.cfg",
-      "size": 1224,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarFacillity01/TEXTURE.BLACK/ASO_CARFACILLITY02_ALBEDO.PNG.DDS",
-      "size": 5592580,
-      "date": 132495807940000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarFacillity01/TEXTURE.BLACK/ASO_CARFACILLITY02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarFacillity01/TEXTURE.BLACK/texture.CFG",
-      "size": 33,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarFacillity01/TEXTURE.WHITE/ASO_CARFACILLITY02_ALBEDO.PNG.DDS",
-      "size": 5592580,
-      "date": 132496805280000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarFacillity01/TEXTURE.WHITE/ASO_CARFACILLITY02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarFacillity01/TEXTURE.WHITE/texture.CFG",
-      "size": 33,
-      "date": 132423371660000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarUtility01/sim.cfg",
-      "size": 1004,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarUtility01/TEXTURE/CARUTILITY01_ALBEDO.PNG.DDS",
-      "size": 349700,
-      "date": 132493363140000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_CarUtility01/TEXTURE/CARUTILITY01_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371660000000
-    },
-    {
       "path": "SimObjects/GroundVehicles/ASO_Catering_Truck_01/sim.cfg",
-      "size": 1234,
-      "date": 132643542128267632
+      "size": 1238,
+      "date": 132668624881989965
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Catering_Truck_01/TEXTURE/TRUCKCATERING02_ALBEDO.PNG.DDS",
@@ -6056,159 +6371,9 @@
       "date": 132643542128267632
     },
     {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/sim.cfg",
-      "size": 1120,
-      "date": 132495914580000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/model/ASO_Firetruck01.xml",
-      "size": 2392,
-      "date": 132495913760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132493425900000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132493175300000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_EMI.PNG.DDS",
-      "size": 87556,
-      "date": 132493455800000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_EMI.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_NORMAL.PNG.DDS",
-      "size": 1398256,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck01/TEXTURE/FIRETRUCK01_NORMAL.PNG.DDS.json",
-      "size": 160,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck02/sim.cfg",
-      "size": 1239,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck02/model/ASO_Firetruck02.xml",
-      "size": 2388,
-      "date": 132495913220000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck02/TEXTURE/FIRETRUCK02_ALBEDO.PNG.DDS",
-      "size": 1398276,
-      "date": 132490121140000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Firetruck02/TEXTURE/FIRETRUCK02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/sim.cfg",
-      "size": 1518,
-      "date": 132490712040000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/TEXTURE/AIR_SWEEPER_BLACK_FRONT_ALBEDO.PNG.DDS",
-      "size": 5592580,
-      "date": 132490715240000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/TEXTURE/AIR_SWEEPER_BLACK_FRONT_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/TEXTURE/FUEL_TRUCK_ALBEDO.PNG.dds",
-      "size": 5592580,
-      "date": 132489114180000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/TEXTURE/FUEL_TRUCK_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132445533540000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/TEXTURE/FUEL_TRUCK_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132490674340000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/TEXTURE/FUEL_TRUCK_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132423371700000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/TEXTURE/texture.CFG",
-      "size": 33,
-      "date": 132445533540000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/texture.Black/texture.CFG",
-      "size": 33,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck01/texture.White/texture.CFG",
-      "size": 33,
-      "date": 132423371680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck02/sim.cfg",
-      "size": 1464,
-      "date": 132445533540000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck02/texture.airbp/FUEL_TRUCK02_ALBEDO.PNG.dds",
-      "size": 5592580,
-      "date": 132492271560000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck02/texture.airbp/FUEL_TRUCK02_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132445533540000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck02/texture.airbp/FUEL_TRUCK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132489181220000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck02/texture.airbp/FUEL_TRUCK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132423371700000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_FuelTruck02/texture.airbp/texture.CFG",
-      "size": 33,
-      "date": 132445533540000000
-    },
-    {
       "path": "SimObjects/GroundVehicles/ASO_Ground_Power_Unit/sim.cfg",
-      "size": 1303,
-      "date": 132424307800000000
+      "size": 1307,
+      "date": 132668624802420586
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Ground_Power_Unit/TEXTURE/AIR_START_UNIT_ALBEDO.PNG.DDS",
@@ -6231,89 +6396,9 @@
       "date": 132423371700000000
     },
     {
-      "path": "SimObjects/GroundVehicles/ASO_LoaderCab/sim.cfg",
-      "size": 985,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_LoaderCab/TEXTURE.RED/LOADER_CARGO_ALBEDO.PNG.DDS",
-      "size": 5592580,
-      "date": 132494028680000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_LoaderCab/TEXTURE.RED/LOADER_CARGO_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371700000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_LoaderCab/TEXTURE.RED/texture.CFG",
-      "size": 33,
-      "date": 132423371700000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_LoaderCab/TEXTURE.WHITE/LOADER_CARGO_ALBEDO.PNG.DDS",
-      "size": 5592580,
-      "date": 132495863200000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_LoaderCab/TEXTURE.WHITE/LOADER_CARGO_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371700000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_LoaderCab/TEXTURE.WHITE/texture.CFG",
-      "size": 33,
-      "date": 132423371700000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/sim.cfg",
-      "size": 1298,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/TEXTURE/TRUCK_ALBD.PNG.DDS",
-      "size": 1398276,
-      "date": 132496813780000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/TEXTURE/TRUCK_ALBD.PNG.DDS.json",
-      "size": 119,
-      "date": 132423371720000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/TEXTURE/TRUCK_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132497690840000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/TEXTURE/TRUCK_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132423371720000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/TEXTURE.WHITE/texture.CFG",
-      "size": 33,
-      "date": 132423371720000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/TEXTURE.WHITE/TRUCK_ALBD.PNG.DDS",
-      "size": 1398276,
-      "date": 132496811140000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/TEXTURE.WHITE/TRUCK_ALBD.PNG.DDS.json",
-      "size": 119,
-      "date": 132423371720000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_Operation_Truck/texture.Yellow/texture.CFG",
-      "size": 33,
-      "date": 132423371720000000
-    },
-    {
       "path": "SimObjects/GroundVehicles/ASO_Pushback/sim.cfg",
-      "size": 1054,
-      "date": 132424307800000000
+      "size": 1062,
+      "date": 132668624499890510
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Pushback/TEXTURE.BLUE/PUSHBACK_TRUCK_FRONTPART01_ALBEDO.PNG.DDS",
@@ -6367,8 +6452,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Shuttle_01/sim.cfg",
-      "size": 1005,
-      "date": 132652364698132549
+      "size": 1009,
+      "date": 132668624272312205
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Shuttle_01/TEXTURE.GRAY/SHUTTLE02_ALBEDO.PNG.DDS",
@@ -6381,79 +6466,9 @@
       "date": 132423371720000000
     },
     {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/sim.cfg",
-      "size": 1318,
-      "date": 132652145546155658
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/model/ASO_TruckFacility01.xml",
-      "size": 2335,
-      "date": 132489411580000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.BLACK/texture.CFG",
-      "size": 33,
-      "date": 132423371740000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.BLACK/TRUCKFACILITY01_ALBEDO.PNG.dds",
-      "size": 349700,
-      "date": 132652127591105612
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.BLACK/TRUCKFACILITY01_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371740000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.PINK/texture.CFG",
-      "size": 33,
-      "date": 132423371740000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.PINK/TRUCKFACILITY01_ALBEDO.PNG.dds",
-      "size": 349700,
-      "date": 132652144414557426
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.PINK/TRUCKFACILITY01_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371740000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.WHITE/texture.CFG",
-      "size": 33,
-      "date": 132423371740000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.WHITE/TRUCKFACILITY01_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371740000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckFacility01/TEXTURE.WHITE/TRUCKFACILITY02_ALBEDO.PNG.DDS",
-      "size": 349700,
-      "date": 132652129979463353
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckUtility01/sim.cfg",
-      "size": 1018,
-      "date": 132423371760000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckUtility01/TEXTURE/TRUCKUTILITY01_WHITE_ALBEDO.PNG.DDS",
-      "size": 349700,
-      "date": 132652069170026923
-    },
-    {
-      "path": "SimObjects/GroundVehicles/ASO_TruckUtility01/TEXTURE/TRUCKUTILITY01_WHITE_ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132423371760000000
-    },
-    {
       "path": "SimObjects/GroundVehicles/ASO_Tug01/sim.cfg",
-      "size": 1259,
-      "date": 132424307800000000
+      "size": 1263,
+      "date": 132668624171315741
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug01/TEXTURE/TUG1_ALBEDO.PNG.DDS",
@@ -6467,13 +6482,13 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug02/sim.cfg",
-      "size": 1283,
-      "date": 132423371780000000
+      "size": 1287,
+      "date": 132668624077348625
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug02/TEXTURE/TUGGROUNDVEHICULE_ALBEDO.PNG.DDS",
       "size": 5592580,
-      "date": 132652136636115116
+      "date": 132668624004633809
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug02/TEXTURE/TUGGROUNDVEHICULE_ALBEDO.PNG.DDS.json",
