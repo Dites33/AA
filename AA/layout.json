@@ -876,6 +876,551 @@
       "date": 132684039400000000
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/aircraft.cfg",
+      "size": 2058,
+      "date": 132498343580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/MODEL.MAIN/model.CFG",
+      "size": 303,
+      "date": 132495024280000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132528696780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132430833900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 22369776,
+      "date": 132486536560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447420000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132487148020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132467247360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132487123880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132430833900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132487190100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132423781480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_TAILLANDING_COMP.PNG.DDS",
+      "size": 5592560,
+      "date": 132486536940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_TAILLANDING_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447420000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132487119000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132467247360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592560,
+      "date": 132486537180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/C172SP_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423781480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/texture.CFG",
+      "size": 270,
+      "date": 132485699060000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/thumbnail.JPG",
+      "size": 244853,
+      "date": 132495781840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3D/TEXTURE.C3D/thumbnail_small.JPG",
+      "size": 57947,
+      "date": 132495782020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/aircraft.cfg",
+      "size": 2068,
+      "date": 132528692940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/MODEL.MAIN/model.CFG",
+      "size": 303,
+      "date": 132495024280000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132528683500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132430833900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 22369776,
+      "date": 132528672260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447420000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132487148020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132467247360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132487123880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132430833900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132528652700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132423781480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_COMP.PNG.DDS",
+      "size": 5592560,
+      "date": 132528672080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447420000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132528655460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132467247360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592560,
+      "date": 132528671780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423781480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/texture.CFG",
+      "size": 270,
+      "date": 132485699060000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/thumbnail.JPG",
+      "size": 317413,
+      "date": 132528694740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-C3DB/TEXTURE.C3DB/thumbnail_small.JPG",
+      "size": 73391,
+      "date": 132528694940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/aircraft.cfg",
+      "size": 2082,
+      "date": 132528652100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/MODEL.C3DB/model.CFG",
+      "size": 293,
+      "date": 132528613440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132528683500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132430833900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 22369776,
+      "date": 132528672260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447420000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132487148020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132467247360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132487123880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132430833900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132528652700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132423781480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_COMP.PNG.DDS",
+      "size": 5592560,
+      "date": 132528672080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_TAILLANDING_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447420000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132528655460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132467247360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592560,
+      "date": 132528671780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/C172SP_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423781480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/texture.CFG",
+      "size": 392,
+      "date": 132528613440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/thumbnail.JPG",
+      "size": 317413,
+      "date": 132528694740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_classic_C3DB/TEXTURE.C3DB/thumbnail_small.JPG",
+      "size": 73391,
+      "date": 132528694940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/aircraft.cfg",
+      "size": 2004,
+      "date": 132493359460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/MODEL.MAIN/model.CFG",
+      "size": 708,
+      "date": 132493356840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132493185580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_ENGINE_COMP.PNG.DDS",
+      "size": 1520,
+      "date": 132470452760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_ENGINE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423825840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132493203520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FRONTGEAR_COMP.PNG.DDS",
+      "size": 1398256,
+      "date": 132493209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FRONTGEAR_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423825840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 22369776,
+      "date": 132493186240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FUSELAGE_COMP.PNG.dds",
+      "size": 1520,
+      "date": 132470452860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423825840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132457774160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.dds",
+      "size": 22369776,
+      "date": 132499348040000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457774160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_WING_COMP.PNG.dds",
+      "size": 1520,
+      "date": 132470453020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/CESSNA_CJ4_AIRFRAME_WING_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423861840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/texture.CFG",
+      "size": 231,
+      "date": 132457774160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/thumbnail.jpg",
+      "size": 196604,
+      "date": 132493187560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3D/TEXTURE.C3D/thumbnail_small.jpg",
+      "size": 45061,
+      "date": 132493187740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/aircraft.cfg",
+      "size": 2011,
+      "date": 132528626100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/MODEL.MAIN/model.CFG",
+      "size": 708,
+      "date": 132493356840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132528627820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_ENGINE_COMP.PNG.DDS",
+      "size": 1520,
+      "date": 132528634920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_ENGINE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423825840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132528628760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FRONTGEAR_COMP.PNG.DDS",
+      "size": 1398256,
+      "date": 132528635480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FRONTGEAR_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423825840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 22369776,
+      "date": 132528630800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FUSELAGE_COMP.PNG.dds",
+      "size": 1520,
+      "date": 132528635100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423825840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132457774160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.dds",
+      "size": 22369776,
+      "date": 132528628180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132457738160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_WING_COMP.PNG.dds",
+      "size": 1520,
+      "date": 132528635280000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/CESSNA_CJ4_AIRFRAME_WING_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132423825840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/texture.CFG",
+      "size": 231,
+      "date": 132457774160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/thumbnail.jpg",
+      "size": 228665,
+      "date": 132528631400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4_C3DB/TEXTURE.C3DB/thumbnail_small.jpg",
+      "size": 48705,
+      "date": 132528631620000000
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_KingAir350_C3D/aircraft.cfg",
       "size": 2102,
       "date": 132684039400000000
