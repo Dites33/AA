@@ -2091,56 +2091,6 @@
       "date": 132684039400000000
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/aircraft.cfg",
-      "size": 4053,
-      "date": 132687827775704458
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/MODEL.AITDF/model.cfg",
-      "size": 239,
-      "date": 132486947580000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/MODEL.MAIN/model.CFG",
-      "size": 721,
-      "date": 132485495520000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS",
-      "size": 5616,
-      "date": 132486515720000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132422488680000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS",
-      "size": 22369796,
-      "date": 132687819899035165
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132422488680000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/texture.CFG",
-      "size": 154,
-      "date": 132444292460000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/thumbnail.jpg",
-      "size": 69195,
-      "date": 132688708242820796
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/thumbnail_small.jpg",
-      "size": 18286,
-      "date": 132688708243071037
-    },
-    {
       "path": "SimObjects/Airplanes/Asobo_TBM930_AZPEPE/aircraft.cfg",
       "size": 2103,
       "date": 132688724711330663
@@ -6483,7 +6433,7 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/aircraft.cfg",
       "size": 1279,
-      "date": 132688695643454491
+      "date": 132689114496278298
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/MODEL.AZG/model.cfg",
@@ -6497,8 +6447,8 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS",
-      "size": 2097280,
-      "date": 132672674540000000
+      "size": 5592580,
+      "date": 132689085313154633
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
@@ -6531,9 +6481,14 @@
       "date": 132683476924141050
     },
     {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG",
+      "size": 0,
+      "date": 132689092428197981
+    },
+    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132683475965605016
+      "size": 22369796,
+      "date": 132689088858638686
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
@@ -6593,7 +6548,7 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
       "size": 5592580,
-      "date": 132678368173133410
+      "date": 132684039400000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
