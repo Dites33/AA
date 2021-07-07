@@ -2118,7 +2118,7 @@
     {
       "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132687819899035165
+      "date": 132691212124768994
     },
     {
       "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
@@ -2139,6 +2139,76 @@
       "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDF/TEXTURE.TDF/thumbnail_small.jpg",
       "size": 18286,
       "date": 132688708243071037
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/aircraft.cfg",
+      "size": 1922,
+      "date": 132701574526734019
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 5616,
+      "date": 132486515720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422488680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132700702937047681
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422488680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PLANE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132689180113639595
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PLANE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132605869630139550
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS",
+      "size": 1398276,
+      "date": 132700700882797865
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132605869531291126
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PROP_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132689185006290176
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PROP_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132605869531361188
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/texture.CFG",
+      "size": 154,
+      "date": 132444292460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/thumbnail.jpg",
+      "size": 64249,
+      "date": 132700786750620079
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/thumbnail_small.jpg",
+      "size": 16852,
+      "date": 132700786750830271
     },
     {
       "path": "SimObjects/Airplanes/Asobo_TBM930_AZPEPE/aircraft.cfg",
