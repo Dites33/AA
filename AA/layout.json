@@ -2,38 +2,13 @@
   "content": [
     {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/aircraft.cfg",
-      "size": 889,
-      "date": 132684039400000000
+      "size": 891,
+      "date": 132740182475727271
     },
     {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/model.CPTHOLDEN/model.CFG",
       "size": 736,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/TEXTURE.CPTHOLDEN/ASCRJ700_EXT_CABIN_A.PNG.dds",
-      "size": 22369796,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/TEXTURE.CPTHOLDEN/ASCRJ700_EXT_CABIN_A.PNG.DDS.json",
-      "size": 102,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/TEXTURE.CPTHOLDEN/ASCRJ700_EXT_CABIN_EMSSIVE.PNG.DDS",
-      "size": 5592580,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/TEXTURE.CPTHOLDEN/ASCRJ700_EXT_CABIN_EMSSIVE.PNG.DDS.FLAGS",
-      "size": 21,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/TEXTURE.CPTHOLDEN/ASCRJ700_EXT_CABIN_EMSSIVE.PNG.DDS.json",
-      "size": 127,
-      "date": 132684039400000000
+      "date": 132740182814907328
     },
     {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/TEXTURE.CPTHOLDEN/ASCRJ700_EXT_DECAL_FUSE_SOLID_A.PNG.DDS",
@@ -112,8 +87,8 @@
     },
     {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_lyki/aircraft.cfg",
-      "size": 867,
-      "date": 132684039400000000
+      "size": 869,
+      "date": 132740182569039125
     },
     {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_lyki/model.LYKI/model.CFG",
@@ -237,37 +212,12 @@
     },
     {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_zebulon/aircraft.cfg",
-      "size": 880,
-      "date": 132684039400000000
+      "size": 882,
+      "date": 132740182649867305
     },
     {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_zebulon/model.ZEBULON/model.CFG",
       "size": 736,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_zebulon/TEXTURE.ZEBULON/ASCRJ700_EXT_CABIN_A.PNG.DDS",
-      "size": 11184952,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_zebulon/TEXTURE.ZEBULON/ASCRJ700_EXT_CABIN_A.PNG.DDS.json",
-      "size": 102,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_zebulon/TEXTURE.ZEBULON/ASCRJ700_EXT_CABIN_EMSSIVE.PNG.DDS",
-      "size": 5592580,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_zebulon/TEXTURE.ZEBULON/ASCRJ700_EXT_CABIN_EMSSIVE.PNG.DDS.FLAGS",
-      "size": 21,
-      "date": 132684039400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_zebulon/TEXTURE.ZEBULON/ASCRJ700_EXT_CABIN_EMSSIVE.PNG.DDS.json",
-      "size": 127,
       "date": 132684039400000000
     },
     {
@@ -443,17 +393,37 @@
     {
       "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/CUP_LOW2_ALBEDO.PNG.dds",
       "size": 1398276,
-      "date": 132684039400000000
+      "date": 132707172620000000
     },
     {
       "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/CUP_LOW2_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132684039400000000
+      "date": 132707172620000000
     },
     {
       "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/CUP_LOW2_ALBEDO2.PNG.dds",
       "size": 1398276,
       "date": 132684039400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
     },
     {
       "path": "SimObjects/Airplanes/Asobo_A320_AZG/TEXTURE.AZG/texture.CFG",
@@ -531,9 +501,39 @@
       "date": 132684039400000000
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/debug.log",
       "size": 0,
       "date": 132684039400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
     },
     {
       "path": "SimObjects/Airplanes/Asobo_A320_AZG2/TEXTURE.AZG2/texture.CFG",
@@ -651,6 +651,36 @@
       "date": 132684039400000000
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZGHAR/TEXTURE.AZGHAR/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZGHAR/TEXTURE.AZGHAR/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZGHAR/TEXTURE.AZGHAR/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZGHAR/TEXTURE.AZGHAR/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZGHAR/TEXTURE.AZGHAR/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_AZGHAR/TEXTURE.AZGHAR/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_A320_AZGHAR/TEXTURE.AZGHAR/texture.CFG",
       "size": 225,
       "date": 132684039400000000
@@ -756,6 +786,36 @@
       "date": 132684039400000000
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/texture.CFG",
       "size": 225,
       "date": 132684039400000000
@@ -769,6 +829,191 @@
       "path": "SimObjects/Airplanes/Asobo_A320_D33/TEXTURE.D33/thumbnail_small.jpg",
       "size": 31897,
       "date": 132684039400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/aircraft.cfg",
+      "size": 1289,
+      "date": 132740119873302891
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/MODEL.MAIN/model.cfg",
+      "size": 940,
+      "date": 132619455340000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132592789920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132458557220000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132740046140275980
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132706209900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 132740105668229522
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132740045106558182
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132740126048945307
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/texture.CFG",
+      "size": 230,
+      "date": 132619455460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/thumbnail.jpg",
+      "size": 61307,
+      "date": 132740129849930405
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO_yvouneta320/TEXTURE.YVOUNETASO/thumbnail_small.jpg",
+      "size": 14286,
+      "date": 132740129850160613
     },
     {
       "path": "SimObjects/Airplanes/Asobo_A320_PEPE/aircraft.cfg",
@@ -859,6 +1104,36 @@
       "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132684039400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
     },
     {
       "path": "SimObjects/Airplanes/Asobo_A320_PEPE/TEXTURE.PEPE/texture.CFG",
@@ -2148,7 +2423,7 @@
     {
       "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707305106310212
+      "date": 132717883329799626
     },
     {
       "path": "SimObjects/Airplanes/Asobo_TBM930_AZGTDFVE/texture.azgtdfve/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
@@ -2276,9 +2551,99 @@
       "date": 132688728633519855
     },
     {
-      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-Luke/aircraft.cfg",
-      "size": 1287,
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/aircraft.cfg",
+      "size": 1329,
+      "date": 132740186206506107
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF2_MAP1_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132740213927174897
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF2_MAP1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132557001893310000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_1_DIFFUSE.PNG.DDS",
+      "size": 22369796,
+      "date": 132740212928651172
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_1_DIFFUSE.PNG.DDS.json",
+      "size": 102,
+      "date": 132557002806890000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_1_IOR.PNG.DDS",
+      "size": 22369796,
+      "date": 132740224325441046
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_1_IOR.PNG.DDS.json",
+      "size": 191,
+      "date": 132540888940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_1_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132540888920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_1_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132540888920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_2_DIFFUSE.PNG.DDS",
+      "size": 22369796,
+      "date": 132740213485017820
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_2_DIFFUSE.PNG.DDS.json",
+      "size": 102,
+      "date": 132557002823640000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_2_IOR.PNG.DDS",
+      "size": 22369796,
+      "date": 132568194201614807
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_2_IOR.PNG.DDS.json",
+      "size": 191,
+      "date": 132540888940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_2_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132540888920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/EF_SET_2_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132540888920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/texture.CFG",
+      "size": 203,
       "date": 132684039400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/thumbnail.jpg",
+      "size": 59232,
+      "date": 132740233086203688
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-airforce/texture.Azgharie-Air-Force-Generique/thumbnail_small.jpg",
+      "size": 16248,
+      "date": 132740233086420181
+    },
+    {
+      "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-Luke/aircraft.cfg",
+      "size": 1308,
+      "date": 132740186071358751
     },
     {
       "path": "SimObjects/Airplanes/bredok3d-eurofightertyphoon-Luke/texture.Azgharie-Air-Force/EF2_MAP1_ALBD.PNG.DDS",
@@ -2521,46 +2886,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -2577,56 +2902,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -2653,82 +2928,32 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS",
-      "size": 87536,
-      "date": 132707172620000000
+      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS",
-      "size": 5592560,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -2761,26 +2986,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -2797,66 +3002,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -2891,11 +3036,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/test",
-      "size": 5,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/texture.CFG",
       "size": 203,
       "date": 132707172620000000
@@ -2909,6 +3049,291 @@
       "path": "SimObjects/Airplanes/flybywire-a320neo-adibou/TEXTURE.ADB/thumbnail_small.jpg",
       "size": 14634,
       "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/aircraft.cfg",
+      "size": 1246,
+      "date": 132740068834342943
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/MODEL.AZG/model.cfg",
+      "size": 239,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/MODEL.MAIN/model.cfg",
+      "size": 276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_DECALS_ALBD.PNG.dds",
+      "size": 5592580,
+      "date": 132739494874628292
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132458557220000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132739496835185059
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132585813620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132623167231412069
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132585813620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 22369796,
+      "date": 132740018470774810
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132585813640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_WINGS_ALBD.PNG.dds",
+      "size": 22369796,
+      "date": 132739495140016644
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132585813640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSTEXT_ALBD.TIF.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSTEXT_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS",
+      "size": 22369796,
+      "date": 132739502842141303
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132740042474887176
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132738463000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132740064645927341
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/CUP_LOW2_METAL.PNG.DDS",
+      "size": 1398276,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/CUP_LOW2_METAL.PNG.DDS.json",
+      "size": 191,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/CUP_LOW2_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/CUP_LOW2_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132740063523036080
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/FLYPAD_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/FLYPAD_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/texture.CFG",
+      "size": 203,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/thumbnail.jpg",
+      "size": 58091,
+      "date": 132740130624591243
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-airforce/TEXTURE.AIRFORCE/thumbnail_small.jpg",
+      "size": 13946,
+      "date": 132740130624812913
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/aircraft.cfg",
@@ -3016,26 +3441,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -3081,26 +3486,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -3123,26 +3508,41 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
       "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
+      "size": 102,
       "date": 132707172620000000
     },
     {
@@ -3162,26 +3562,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-aymericou/TEXTURE.AYM/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -3336,46 +3716,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -3421,66 +3761,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -3501,134 +3781,34 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS",
-      "size": 699192,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS",
-      "size": 174904,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS",
-      "size": 87536,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS.json",
-      "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS",
-      "size": 11184952,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS",
-      "size": 22369796,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDALS_NORM.PNG.DDS",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
       "size": 22369776,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDALS_NORM.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -3638,46 +3818,6 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SEATS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SEATS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SEATS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SEATS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS.json",
-      "size": 191,
       "date": 132707172620000000
     },
     {
@@ -3697,66 +3837,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -3911,26 +3991,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -3976,26 +4036,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -4018,26 +4058,41 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
       "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
+      "size": 102,
       "date": 132707172620000000
     },
     {
@@ -4057,26 +4112,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-colchix/TEXTURE.COL/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -4231,46 +4266,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -4321,66 +4316,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -4401,134 +4336,34 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS",
-      "size": 87536,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDALS_NORM.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDALS_NORM.PNG.DDS.json",
-      "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -4561,26 +4396,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -4597,66 +4412,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-dites33/TEXTURE.DIT/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -4811,26 +4566,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -4898,22 +4633,32 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-elite/TEXTURE.ELT/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -5106,46 +4851,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -5191,66 +4896,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -5271,124 +4916,34 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS",
-      "size": 87536,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS",
-      "size": 5592560,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -5428,26 +4983,6 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_SEATS_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS.json",
-      "size": 191,
       "date": 132707172620000000
     },
     {
@@ -5491,46 +5026,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/CUP_LOW2_ALBEDO.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -5558,11 +5053,6 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/FLYPAD_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-luke/TEXTURE.LUK/GLASS_COMP.PNG.DDS",
-      "size": 5592580,
       "date": 132707172620000000
     },
     {
@@ -5816,26 +5306,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -5856,124 +5326,34 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS",
-      "size": 87536,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS",
-      "size": 5592560,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -6006,26 +5386,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -6042,66 +5402,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -6133,11 +5433,6 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/FLYPAD_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-mrpepe/TEXTURE.PEP/GLASS_COMP.PNG.DDS",
-      "size": 5592580,
       "date": 132707172620000000
     },
     {
@@ -6251,26 +5546,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -6338,22 +5613,32 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -6363,46 +5648,6 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-saaamu33/TEXTURE.SAM/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
-      "size": 191,
       "date": 132707172620000000
     },
     {
@@ -6566,26 +5811,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -6653,22 +5878,32 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-thequentin94/TEXTURE.THQ/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -6851,46 +6086,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK02_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_BACK02_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
       "size": 1398276,
       "date": 132707172620000000
@@ -6941,66 +6136,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_FLOOR_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_GLARESHIELD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_GLARESHIELD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_INPUTS01_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_INPUTS01_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
       "size": 5592580,
       "date": 132707172620000000
@@ -7021,124 +6156,34 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_LIGHTS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_LIGHTS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS",
-      "size": 1398276,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_LIGHTS_EMIS.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132707172620000000
+      "date": 132740042474887176
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
+      "date": 132738463000000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "size": 22369796,
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
+      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_OVERHEAD_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS",
-      "size": 87536,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PANELSOFT_NORM.PNG.DDS.json",
+      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS",
-      "size": 5592560,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDALS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_PEDESTAL_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
+      "date": 132738463020000000
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
@@ -7148,46 +6193,6 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SEATS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SEATS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SEATS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SEATS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDEPANELS_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDEPANELS_COMP.PNG.DDS.json",
-      "size": 191,
       "date": 132707172620000000
     },
     {
@@ -7207,66 +6212,6 @@
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDETOP_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_SIDETOP_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_THROTTLE_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_THROTTLE_COMP.PNG.DDS.json",
-      "size": 191,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_TOPPANEL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/A320NEO_COCKPIT_TOPPANEL_COMP.PNG.DDS.json",
       "size": 191,
       "date": 132707172620000000
     },
@@ -7301,11 +6246,6 @@
       "date": 132707172620000000
     },
     {
-      "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/GLASS_COMP.PNG.DDS",
-      "size": 5592580,
-      "date": 132707172620000000
-    },
-    {
       "path": "SimObjects/Airplanes/flybywire-a320neo-twt/TEXTURE.TWT/texture.CFG",
       "size": 205,
       "date": 132707172620000000
@@ -7321,9 +6261,269 @@
       "date": 132707172620000000
     },
     {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/aircraft.cfg",
+      "size": 1269,
+      "date": 132740081850732653
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/MODEL.AZG/model.cfg",
+      "size": 239,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/MODEL.MAIN/model.cfg",
+      "size": 276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132740046140275980
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132706209900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 132740105668229522
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 2097280,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132740045106558182
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132740126293630889
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_DECALSALPHA_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_DECALSALPHA_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_INPUTS02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_INPUTS02_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.dds",
+      "size": 22369796,
+      "date": 132740042474887176
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_MAINPANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132738463000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_MAINPANEL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_MAINPANEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_SEATBELT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_SIDESTICKS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/A320NEO_COCKPIT_SIDESTICKS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132707172620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/CUP_LOW2_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 132740048924706267
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/CUP_LOW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/CUP_LOW2_METAL.PNG.DDS",
+      "size": 1398276,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/CUP_LOW2_METAL.PNG.DDS.json",
+      "size": 191,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/CUP_LOW2_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/CUP_LOW2_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/FLYPAD_ALBEDO.TIF.DDS",
+      "size": 5592580,
+      "date": 132740054975077540
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/FLYPAD_ALBEDO.TIF.DDS.json",
+      "size": 119,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/FLYPAD_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/FLYPAD_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/FLYPAD_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/FLYPAD_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132738463100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/texture.CFG",
+      "size": 203,
+      "date": 132706209920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/thumbnail.jpg",
+      "size": 61307,
+      "date": 132740129849930405
+    },
+    {
+      "path": "SimObjects/Airplanes/flybywire-a320neo-yvounet/TEXTURE.YVOUNET/thumbnail_small.jpg",
+      "size": 14286,
+      "date": 132740129850160613
+    },
+    {
       "path": "SimObjects/GroundVehicles/ASO_Aircraft_Caddy/sim.cfg",
-      "size": 1162,
-      "date": 132684039400000000
+      "size": 1194,
+      "date": 132719835293788907
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Aircraft_Caddy/TEXTURE/AIRCRAFTCADDY_2_ALBEDO.PNG.DDS",
@@ -7337,8 +6537,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart01/sim.cfg",
-      "size": 1025,
-      "date": 132684039400000000
+      "size": 1050,
+      "date": 132719835272969973
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Baggage_Cart01/TEXTURE/BAGGAGE_CART01_ALBEDO.PNG.DDS",
@@ -7382,8 +6582,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/sim.cfg",
-      "size": 1599,
-      "date": 132684039400000000
+      "size": 1795,
+      "date": 132719835294199280
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Boarding_Stairs/TEXTURE/BOARDING_STAIRS_BASE_ALBEDO.PNG.dds",
@@ -7417,8 +6617,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Catering_Truck_01/sim.cfg",
-      "size": 1198,
-      "date": 132684039400000000
+      "size": 1234,
+      "date": 132719835292057318
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Catering_Truck_01/TEXTURE/TRUCKCATERING02_ALBEDO.PNG.DDS",
@@ -7432,8 +6632,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Ground_Power_Unit/sim.cfg",
-      "size": 1264,
-      "date": 132684039400000000
+      "size": 1303,
+      "date": 132719835292077354
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Ground_Power_Unit/TEXTURE/AIR_START_UNIT_ALBEDO.PNG.DDS",
@@ -7457,8 +6657,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Pushback/sim.cfg",
-      "size": 1023,
-      "date": 132684039400000000
+      "size": 1215,
+      "date": 132719835294339427
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Pushback/TEXTURE.BLUE/PUSHBACK_TRUCK_FRONTPART01_ALBEDO.PNG.DDS",
@@ -7512,8 +6712,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Shuttle_01/sim.cfg",
-      "size": 975,
-      "date": 132684039400000000
+      "size": 1082,
+      "date": 132719835292087365
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Shuttle_01/TEXTURE.GRAY/SHUTTLE02_ALBEDO.PNG.DDS",
@@ -7527,8 +6727,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug01/sim.cfg",
-      "size": 1220,
-      "date": 132684039400000000
+      "size": 1259,
+      "date": 132719835293168332
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug01/TEXTURE/TUG1_ALBEDO.PNG.DDS",
@@ -7542,8 +6742,8 @@
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug02/sim.cfg",
-      "size": 1245,
-      "date": 132684039400000000
+      "size": 1283,
+      "date": 132719835293178366
     },
     {
       "path": "SimObjects/GroundVehicles/ASO_Tug02/TEXTURE/TUGGROUNDVEHICULE_ALBEDO.PNG.DDS",
