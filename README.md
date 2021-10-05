@@ -1,2 +1,2 @@
-# AA-LIGHT
- Light version of Azgharie Airlines Liveries
+# AA
+ Premium version of Azgharie Airlines Liveries
