@@ -1,6 +1,11 @@
 {
   "content": [
     {
+      "path": "msfs-downloader-updater.json",
+      "size": 4,
+      "date": 132751605082518614
+    },
+    {
       "path": "SimObjects/Airplanes/Aerosoft_CRJ_700_cptholden/aircraft.cfg",
       "size": 891,
       "date": 132751274560000000
@@ -5253,7 +5258,7 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG2/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS",
       "size": 5592580,
-      "date": 132779329124014379
+      "date": 132780363003803795
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG2/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
@@ -5303,7 +5308,7 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG2/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132779332553769381
+      "date": 132780198456934435
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG2/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
@@ -5323,7 +5328,7 @@
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG2/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
       "size": 22369796,
-      "date": 132751274560000000
+      "date": 132779451666103173
     },
     {
       "path": "SimObjects/Airplanes/flybywire-a320neo-azghaaar/TEXTURE.AZG2/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
