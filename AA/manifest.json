@@ -1,16 +1,15 @@
 {
-  "dependencies": [],
-  "content_type": "LIVERIES",
-  "title": "Azgharie Liveries",
-  "manufacturer": "Various",
-  "creator": "Dites33 + Ben C3D",
-  "package_version": "2.1",
-  "minimum_game_version": "1.9.5",
+  "creator": "Dites33 (38) + BenC3D (18) https://www.twitch.tv/azghaaar",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
+      "LastUpdate": "VERSION 1.0",
       "OlderHistory": ""
     }
   },
+  "title": "Azgharie Liveries",
+  "content_type": "LIVERIES",
+  "minimum_game_version": "1.9.5",
+  "manufacturer": "Various",
+  "package_version": "3.5",
   "total_package_size": "00000000000000000000"
 }
