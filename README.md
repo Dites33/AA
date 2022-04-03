@@ -1,2 +1,3 @@
 # AA
- Premium version of Azgharie Airlines Liveries
+Airplanes only Azgharie Airlines Liveries
+Decompress into community directory
